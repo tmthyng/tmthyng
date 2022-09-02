@@ -28,9 +28,9 @@ class AboutMe
             ],
             
             beginner: [
-                :'Ruby on Rails'
-                :'Next.js'
                 :git
+                :'Next.js'
+                :'Ruby on Rails'
             ]
         }
     end
