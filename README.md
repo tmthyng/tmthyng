@@ -2,6 +2,7 @@
 <h1>&#9996;&#65039; Hello&excl;</h1>
 
 Just a rookie frontend web developer looking to become a maestro.
+
 </div>
 
 ```ruby
@@ -12,6 +13,10 @@ class AboutMe
     
     def my_location
         @location = 'Wellington, New Zealand'
+    end
+    
+    def currently_learning
+        @language = JavaScript
     end
     
     def my_knowledge_base
