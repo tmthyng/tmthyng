@@ -22,9 +22,9 @@ class AboutMe
     def my_knowledge_base
         @my_knowledge_base = {
             advanced: [
-                :html
-                :haml
                 :css
+                :haml
+                :html
                 :scss
             ],
             
