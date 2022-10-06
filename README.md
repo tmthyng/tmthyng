@@ -16,7 +16,7 @@ class AboutMe
     end
     
     def currently_learning
-        @language = JavaScript
+        @language = ruby_on_rails
     end
     
     def my_knowledge_base
@@ -34,8 +34,9 @@ class AboutMe
             
             beginner: [
                 :git
-                :'Next.js'
-                :'Ruby on Rails'
+                :javascript
+                :next_js
+                :ruby_on_rails
             ]
         }
     end
