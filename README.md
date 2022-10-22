@@ -16,7 +16,7 @@ class AboutMe
     end
     
     def currently_learning
-        @language = reactjs
+        @language = 'React'
     end
     
     def my_knowledge_base
