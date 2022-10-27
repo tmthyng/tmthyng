@@ -35,7 +35,8 @@ class AboutMe
             beginner: [
                 :git
                 :javascript
-                :'Next.js'
+                :nextjs
+                :react
                 :'Ruby on Rails'
             ]
         }
