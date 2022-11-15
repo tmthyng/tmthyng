@@ -16,7 +16,7 @@ class AboutMe
     end
     
     def currently_learning
-        @language = 'React'
+        @language = 'Vuejs'
     end
     
     def my_knowledge_base
@@ -36,6 +36,8 @@ class AboutMe
             beginner: [
                 :git
                 :javascript
+                :'Nextjs'
+                :'Vuejs'
             ]
         }
     end
