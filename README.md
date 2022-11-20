@@ -1,45 +1,42 @@
 <div align="center">
-<h1>&#9996;&#65039; Hello&excl;</h1>
 
+<h1>&#9996;&#65039; Hello&excl;</h1>
+    
 Just a rookie frontend web developer looking to become a maestro.
 
 </div>
 
-```ruby
-class AboutMe
-    def my_name
-        @name = 'Timothy Ng'
-    end
+```javascript
+const profile = {
+    name: "Timothy Ng",
     
-    def my_location
-        @location = 'Wellington, New Zealand'
-    end
+    location: "Wellington, New Zealand",
     
-    def currently_learning
-        @language = 'Vuejs'
-    end
+    interests: [
+        "Web Dev",
+        "Creative Design",
+        "Sports",
+    ],
     
-    def my_knowledge_base
-        @my_knowledge_base = {
-            advanced: [
-                :css
-                :haml
-                :html
-                :scss
-            ],
-            
-            intermediate: [
-                :'React'
-                :tailwind_css
-            ],
-            
-            beginner: [
-                :git
-                :javascript
-                :'Nextjs'
-                :'Vuejs'
-            ]
-        }
-    end
-end
+    currentlyLearning: "vuejs",
+    
+    knowledgeBase: {
+        advanced: [
+            "css",
+            "html",
+            "scss",
+        ],
+        
+        intermediate: [
+            "tailwindcss",
+        ],
+        
+        beginner: [
+            "reactjs",
+            "nextjs",
+            "nuxtjs",
+            "vuejs",
+        ],
+    }
+}
 ```
