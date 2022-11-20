@@ -9,34 +9,13 @@ Just a rookie frontend web developer looking to become a maestro.
 ```javascript
 const profile = {
     name: "Timothy Ng",
-    
     location: "Wellington, New Zealand",
-    
-    interests: [
-        "Web Dev",
-        "Creative Design",
-        "Sports",
-    ],
-    
-    currentlyLearning: "vuejs",
-    
+    interests: ["Web Dev", "Creative Design", "Sports"],
     knowledgeBase: {
-        advanced: [
-            "css",
-            "html",
-            "scss",
-        ],
-        
-        intermediate: [
-            "tailwindcss",
-        ],
-        
-        beginner: [
-            "reactjs",
-            "nextjs",
-            "nuxtjs",
-            "vuejs",
-        ],
-    }
+        advanced: [CSS, HTML, SCSS],
+        intermediate: "Tailwind CSS",
+        beginner: [React, Nextjs, Nuxtjs, Vue],
+    },
+    currentlyTeachingMyself: Vue
 }
 ```
