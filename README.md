@@ -13,9 +13,9 @@ const profile = {
     interests: ["Web Dev", "Creative Design", "Sports"],
     knowledgeBase: {
         advanced: [CSS, HTML, SCSS],
-        intermediate: ["Tailwind CSS"],
-        beginner: [React, Nextjs, Nuxtjs, Vue],
+        intermediate: [React, "Tailwind CSS"],
+        beginner: [Nextjs, Nuxtjs, Vue],
     },
-    currentlyTeachingMyself: Vue
+    currentlyTeachingMyself: Nextjs
 }
 ```
