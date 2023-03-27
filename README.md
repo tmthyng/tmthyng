@@ -14,7 +14,7 @@ const profile = {
     knowledgeBase: {
         advanced: [CSS, HTML, SCSS],
         intermediate: [React, "Tailwind CSS"],
-        beginner: [Flutter, Nextjs, Nuxtjs, Vue],
+        beginner: [Flutter, Nextjs, Nuxtjs, Ruby on Rails, Vue],
         noob: [Kubernetes],
     },
     currentlyTeachingMyself: Nextjs
