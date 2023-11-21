@@ -10,13 +10,13 @@ Just a rookie frontend web developer looking to become a maestro.
 const profile = {
     name: "Timothy Ng",
     location: "Wellington, New Zealand",
-    interests: ["Web Dev", "Creative Design", "Sports"],
+    interests: ["Technology", "Latest news", "Music", "Movies"],
     knowledgeBase: {
-        advanced: [CSS, HTML, SCSS],
-        intermediate: [React, "Tailwind CSS"],
-        beginner: [Nextjs],
-        noob: [Flutter, Kubernetes Nuxtjs, Ruby_on_Rails, Vue],
+        advanced: [html, css, scss],
+        intermediate: [],
+        beginner: [javascript],
+        noob: [ruby_on_rails, typescript, kubernetes],
     },
-    currentlyTeachingMyself: Nextjs
+    currentlyTeachingMyself: javascript
 }
 ```
