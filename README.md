@@ -6,17 +6,17 @@ Just a rookie frontend web developer looking to become a maestro.
 
 </div>
 
-```javascript
-const profile = {
-    name: "Timothy Ng",
-    location: "Wellington, New Zealand",
-    interests: ["Technology", "Latest news", "Music", "Movies"],
-    knowledgeBase: {
-        advanced: [html, css, scss],
-        intermediate: [],
-        beginner: [javascript],
-        noob: [ruby_on_rails, typescript, kubernetes],
-    },
-    currentlyTeachingMyself: javascript
-}
+```ruby
+def profile
+    name: "Timothy Ng
+    location: "Wellington, New Zealand"
+    interests: ["Sports", "Music", "Movies", "Technology", "Latest news"]
+    knowledge_base: {
+        advanced: [:haml, :html, :css, :scss]
+        intermediate: []
+        beginner: [:javascript, :ruby, :ruby_on_rails]
+        noob: [:docker, :kubernetes, :typescript]
+    }
+    currently_teaching_myself: :ruby_on_rails
+end
 ```
