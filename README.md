@@ -8,7 +8,7 @@ Just a rookie frontend web developer looking to become a maestro.
 
 ```ruby
 def profile
-    name: "Timothy Ng
+    name: "Timothy Ng"
     location: "Wellington, New Zealand"
     interests: ["Sports", "Music", "Movies", "Technology", "Latest news"]
     knowledge_base: {
