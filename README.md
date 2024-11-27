@@ -12,11 +12,11 @@ def profile
     location: "Wellington, New Zealand"
     interests: ["Sports", "Music", "Movies", "Technology", "Latest news"]
     knowledge_base: {
-        advanced: [:haml, :html, :css, :scss]
+        advanced: ["HTML", "CSS", "SCSS", "Erb", "Haml"]
         intermediate: []
-        beginner: [:javascript, :ruby, :ruby_on_rails]
-        noob: [:docker, :kubernetes, :typescript]
+        beginner: ["Javascript", "Ruby on Rails"]
+        noob: ["Typescript"]
     }
-    currently_teaching_myself: :ruby_on_rails
+    currently_teaching_myself: "Ruby on Rails"
 end
 ```
